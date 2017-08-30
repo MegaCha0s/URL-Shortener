@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Baloo+Tammudu);
+body {
+    background: #8c12a9;
+}
+
+* {
+    font-family: 'Baloo Tammudu', cursive;
+}
+
+.jumbotron {
+    background: #8c12a9;
+}
+
+h3 {
+    font-family: 'Baloo Tammudu', cursive;
+}
